@@ -6,20 +6,15 @@
 
 ###
 
-<p align="left">🔭 I’m currently in the self-development zone<br>💬 Ask me about JavaScript, ReactJS and NextJs<br>📫 How to reach me: <a href="mailto:shimulmohammad420@gmail.com">shimulmohammad420@gmail.com</a><br>😄 Pronouns: he/him<br>🌍 I love traveling and exploring new things around the world<br>
-</p>
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shimul65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shimul65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={shimul65}&theme={rose_pine}
-" />
 </div>
 
 ###
 
+<p align="left">🔭 I’m currently in the self-development zone<br>💬 Ask me about JavaScript, ReactJS and NextJs<br>📫 How to reach me: <a href="mailto:shimulmohammad420@gmail.com">shimulmohammad420@gmail.com</a><br>😄 Pronouns: he/him<br>🌍 I love traveling and exploring new things around the world<br>
+</p>
 
 ###
 
