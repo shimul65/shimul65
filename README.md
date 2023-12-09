@@ -1,7 +1,6 @@
 # shimul65
 
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
-<br>
+<img src="https://raw.githubusercontent.com/shimul65/shimul65/main/banner.png" />
 
 <h2 align="left">KAMRUL ISLAM SHIMUL | WEB DEVELOPER</h2>
 
