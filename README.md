@@ -1,6 +1,6 @@
 # shimul65
 
-<img src="https://raw.githubusercontent.com/shimul65/shimul65/main/banner.png" />
+<img src="https://raw.githubusercontent.com/shimul65/shimul65/main/banner2.gif" />
 
 <h2 align="left">KAMRUL ISLAM SHIMUL | WEB DEVELOPER</h2>
 
