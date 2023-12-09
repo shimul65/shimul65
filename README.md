@@ -13,7 +13,8 @@
 
 ###
 
-<p align="left">🔭 I’m currently in the self-development zone<br>💬 Ask me about JavaScript, ReactJS and NextJs<br>📫 How to reach me: [shimulmohammad420@gmail.com](https://mail.google.com/mail/u/0/#sent?compose=CllgCJNstspFZKdGGxhjtgDnPdWwLgWJSmTdrwmsLTXghrrznPTDkZTvXZHPLzcdCGdjPhsBllV)<br>😄 Pronouns: he/him<br>🌍 I love traveling and exploring new things around the world<br></p>
+<p align="left">🔭 I’m currently in the self-development zone<br>💬 Ask me about JavaScript, ReactJS and NextJs<br>📫 How to reach me: <a href="mailto:shimulmohammad420@gmail.com">shimulmohammad420@gmail.com</a><br>😄 Pronouns: he/him<br>🌍 I love traveling and exploring new things around the world<br>
+</p>
 
 ###
 
