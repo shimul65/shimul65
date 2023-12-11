@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/shimul65/shimul65/main/banner2.gif" />
 
-<h3 align="left">KAMRUL ISLAM SHIMUL | WEB DEVELOPER <h2>👋🏻</h2>
-</h3>
+<h2 align="left" text="30px">KAMRUL ISLAM SHIMUL | WEB DEVELOPER 👋🏻
+</h2>
+
 <img src="https://raw.githubusercontent.com/shimul65/shimul65/main/border.webp" width="100%" height="2px" />
 
 <div align="left">
