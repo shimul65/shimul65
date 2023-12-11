@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/shimul65/shimul65/main/banner2.gif" />
 
-<h3 align="left">KAMRUL ISLAM SHIMUL | WEB DEVELOPER 👋🏻 </h3>
+<h3 align="left">KAMRUL ISLAM SHIMUL | WEB DEVELOPER 👋🏻 <img src="https://raw.githubusercontent.com/shimul65/shimul65/main/border.webp" width="100%" height="2px" /> </h3>
 
-<img src="https://raw.githubusercontent.com/shimul65/shimul65/main/border.webp" width="100%" height="2px" />
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shimul65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
